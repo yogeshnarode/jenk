@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DE9A-9760
+
+ Directory of C:\Users\Aditya\Desktop\MyProject
+
+21/06/2019  06:31 PM    <DIR>          .
+21/06/2019  06:31 PM    <DIR>          ..
+21/06/2019  03:59 PM                 0 index.html
+21/06/2019  06:31 PM                 0 jenk.txt
+21/06/2019  03:59 PM                 6 test1.txt
+21/06/2019  05:34 PM                 0 test2.txt
+21/06/2019  05:45 PM                 0 text3.txt
+               5 File(s)              6 bytes
+               2 Dir(s)  19,623,424,000 bytes free
